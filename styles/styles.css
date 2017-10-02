@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	text-transform: uppercase;
+}
+
+nav {
+	text-align: center;
+	color: blue;
+}
+
+body {
+	font-family: helvetica;
+	color: #8b8b8b;
+}
+
+h3 {
+	text-transform: uppercase;
+	color: #26d0c3;
+}
+
+nav {
+	color: #8b8b8b;
+	padding-bottom: 10px;
+}
+
+a {
+	color: #26d0c3;
+}
+
+.dog {
+	border-radius: 100%;
+	max-height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+	text-align: center;
+	font-size: 15px;
+}
+
+.content {
+	width: 750px;
+	margin: auto;
+}
